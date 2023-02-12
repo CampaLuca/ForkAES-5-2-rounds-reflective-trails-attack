@@ -1,0 +1,5 @@
+
+#define HEADER_ROUNDS 5
+#define LEFT_ROUNDS 5
+#define RIGHT_ROUNDS 5
+#define BLOCK_SIZE 16
